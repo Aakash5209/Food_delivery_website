@@ -1,0 +1,2 @@
+if we give padding in list instead of its a tag then padding comes in list and if we want to apply the hover then it will not work.
+if we directly use background color to navbar then it will hide all the content of navbar. SO to do bgcolor on navbar use specail pseudo selector ie; before
